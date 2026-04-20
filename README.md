@@ -1,5 +1,5 @@
 # Taylor Series Prediction
-For a given function, the objective is to generate Taylor Series Expansion of the function up to order 4. Sequence-to-Sequence learning models such as LSTM and Transformer are implemented from scratch to predict the terms of Taylor series of various mathematical functions. Hence, the objective of this problem statement can be framed as a translation problem between two symbolic sequences.
+For a given function, the objective is to generate Taylor Series Expansion of the function. Sequence-to-Sequence learning models such as LSTM and Transformer are implemented from scratch to predict the terms of Taylor series of various mathematical functions. Hence, the objective of this problem statement can be framed as a translation problem between two symbolic sequences.
 
 
 Firstly, install all the required packages from requirements.txt
